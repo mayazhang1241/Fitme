@@ -1,0 +1,4 @@
+train: ../images/train
+val: ../images/val
+nc: 1  # Number of classes (update if you have multiple categories)
+names: ['Clothing']  # Class names
