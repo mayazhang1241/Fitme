@@ -1,0 +1,8 @@
+The file list_attr_img.txt has been moved due to size limitations.
+
+You can download it here:
+https://www.dropbox.com/scl/fi/4136o337blrxbrcuombxs/list_attr_img.txt?rlkey=idyj3wad2wwgearsjwrpcorqp&st=16vk13ke&dl=0
+
+Instructions:
+1. Download the file from the above link.
+2. Place it in the 'annotations/Anno_coarse/' directory for the project to work correctly.
