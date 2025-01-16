@@ -1,5 +1,22 @@
+# Python
 venv/
 __pycache__/
 *.pyc
 *.pyo
+
+# Data files
+annotations/**/*.txt
+annotations/**/*.jpg
+annotations/**/*.jpeg
+annotations/**/*.png
+
+# Specific files
 annotations/Anno_coarse/list_attr_img.txt
+
+# System files
+.DS_Store
+*.log
+
+# IDE files
+.vscode/
+.idea/
